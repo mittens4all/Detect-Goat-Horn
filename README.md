@@ -61,7 +61,7 @@ execute as @a[hasitem={item=goat_horn, data=7, location=slot.weapon.mainhand}, s
 
 ## Author
 
-- [@mittens4all](https://www.github.com/mittens4all) \\ Created pack, added scoreboard scripts, functions, right click
+- [@mittens4all](https://www.github.com/mittens4all)
 - [Youtube](https://www.youtube.com/@mittens4all)
 
 
