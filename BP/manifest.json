@@ -1,10 +1,10 @@
 {
     "format_version": 2,
     "header": {
-        "description": "v1.0.0 - Pack by Mittens4all - Detect Goat Horn",
+        "description": "v1.0.1 - Pack by Mittens4all - Detect Goat Horn",
         "name": "Detect Goat Horn",
         "uuid": "ab5a84a1-8ca2-43be-a8c1-486b00f1faf7",
-        "version": [ 1, 0, 0 ],
+        "version": [ 1, 0, 1 ],
         "min_engine_version": [ 1, 21, 90 ]
     },
     "modules": [
